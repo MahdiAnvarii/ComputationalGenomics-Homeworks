@@ -1,0 +1,14 @@
+Population,Allele Count,Allele Number,Number of Homozygotes,Number of Heterozygotes,Homozygous Genotype Freq.,Heterozygous Genotype Freq.,Allele Frequency
+Kurd,4,200,1,2,0.01,0.02,0.02
+Lur,4,200,0,4,0.0,0.04,0.02
+Azeri,1,200,0,1,0.0,0.01,0.005
+Arab,0,204,0,0,0.0,0.0,0.0
+Baloch,0,202,0,0,0.0,0.0,0.0
+Gilaki,0,198,0,0,0.0,0.0,0.0
+Mazani,0,200,0,0,0.0,0.0,0.0
+Persian,0,200,0,0,0.0,0.0,0.0
+Persian Gulf Islander,0,200,0,0,0.0,0.0,0.0
+Sistani,0,200,0,0,0.0,0.0,0.0
+Turkmen,0,200,0,0,0.0,0.0,0.0
+Zartoshti,0,200,0,0,0.0,0.0,0.0
+Total,9,2404,1,7,0.0008319467554076,0.0058236272878535,0.003744
